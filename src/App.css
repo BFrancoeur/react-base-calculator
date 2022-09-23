@@ -14,14 +14,14 @@
     height: auto;
     padding: 1rem 1rem;
     margin: 10rem auto;
-    background-color: rgb(100, 100, 137);
-    border: 1px solid rgb(66, 66, 89);
+    background-color: rgb(39, 39, 52);
+    border: 1px solid rgb(25, 25, 34);
     border-radius: 1.5rem;
 }
 
 .display {
     color: #000;
-    background-color: #e0e0e0;
+    background-color: #f5f5f5;
     padding: 1rem;
     margin: 2rem;
     border: 1px solid #d0d0d0;
@@ -56,4 +56,18 @@
 
 .hidden {
     visibility: hidden;
+}
+
+.spcl-ops {
+    background-color: #e0e0e0;
+}
+
+.num {
+    background-color: #aaa;
+    border: 1px solid #909090;
+}
+
+.base-ops {
+    background-color: #edab1c;
+    border: 1px solid #d29719;
 }
