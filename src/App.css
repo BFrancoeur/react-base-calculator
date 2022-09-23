@@ -66,6 +66,10 @@
 
 }
 
+.btn:last-child {
+    width: calc(200% + 1rem);
+}
+
 .hidden {
     visibility: hidden;
 }
@@ -82,4 +86,9 @@
 .base-ops {
     background-color: #edab1c;
     border: 1px solid #d29719;
+}
+
+.equals {
+    background-color: #e63a00;
+    border: 1px solid #c12000;
 }
